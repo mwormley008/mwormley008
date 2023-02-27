@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Codewars](https://github.r2v.ch/codewars?user=mworm&stroke=yellow)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/mworm)
+
+<a href="https://data.typeracer.com/pit/profile?user=mwormley&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=mwormley" border="0" alt="TypeRacer.com scorecard for user mwormley"/></a>

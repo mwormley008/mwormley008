@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 <a href="https://data.typeracer.com/pit/profile?user=mwormley&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=mwormley" border="0" alt="TypeRacer.com scorecard for user mwormley"/></a>
 
 [monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
+[![monkeytype.badge]](https://monkeytype.com/)

@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mwormley008)](https://git.io/streak-stats)
 
 ![Codewars](https://github.r2v.ch/codewars?user=mworm&stroke=yellow)
+URL:https://www.codewars.com/users/mworm/badges/large
+
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/mworm)
 

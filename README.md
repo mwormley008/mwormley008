@@ -20,22 +20,27 @@ Languages: Proficient in Python
 Technologies: Experienced with OOP, SQL, Tkinter, Bootstrap
 Tools: Versatile in using Git & GitHub
 Principles: Adept in best coding practices and software development methodologies
+
 🎓 Education
 
 Graduated from Coding Temple's Full-Stack Software Development bootcamp
 Hold a Bachelor's degree in Business Administration and Management from the University of Iowa
+
 💼 Professional Experience
 
 Successfully automated financial processes at WBR Roofing, enhancing efficiency and accuracy
 Developed and maintained compliance documents, demonstrating my attention to detail and responsibility
+
 🌱 I’m currently learning
 
 Diving deeper into [networking], enhancing my skills in [linux]
 Exploring new technologies that add value to automation and backend development
+
 🎯 Goals
 
 Eager to contribute to impactful projects, particularly those focused on automation and web application development
 Looking to collaborate with teams that value clean, efficient code and innovative solutions
+
 📫 How to reach me
 
 Feel free to connect with me on [[LinkedIn profile URL](https://www.linkedin.com/in/michael-wormley/)]

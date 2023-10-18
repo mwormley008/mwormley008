@@ -30,7 +30,7 @@ Successfully automated financial processes at WBR Roofing, enhancing efficiency 
 Developed and maintained compliance documents, demonstrating my attention to detail and responsibility
 🌱 I’m currently learning
 
-Diving deeper into [technology or tool you're learning], enhancing my skills in [specific area of focus]
+Diving deeper into [networking], enhancing my skills in [linux]
 Exploring new technologies that add value to automation and backend development
 🎯 Goals
 
@@ -38,8 +38,8 @@ Eager to contribute to impactful projects, particularly those focused on automat
 Looking to collaborate with teams that value clean, efficient code and innovative solutions
 📫 How to reach me
 
-Feel free to connect with me on [LinkedIn profile URL]
-Reach out to my email at [email address]
+Feel free to connect with me on [[LinkedIn profile URL](https://www.linkedin.com/in/michael-wormley/)]
+Reach out to my email at [mwormley008@gmail.com]
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mwormley008)](https://git.io/streak-stats)
 

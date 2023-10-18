@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+As a Software Developer Trainee at Coding Temple, I learned and applied cutting-edge technologies and best practices to create dynamic and user-friendly web applications. I have experience in Python, OOP, SQL, Tkinter, Bootstrap, Git, and GitHub, and I enjoy solving complex problems using code.
+
+My interest in software development started when I automated some of my tasks as an Accounts Payable Specialist at WBR Roofing, a large construction company, using AutoHotkey. I improved the efficiency and accuracy of the financial processes, and also developed and maintained monthly legal compliance documents. I decided to pursue my passion for software development by attending a Full-Stack Software Development bootcamp at Coding Temple, where I graduated from in May. I also have a Bachelor's degree in Business Administration and Management from the University of Iowa, which gives me a solid foundation in business-oriented thinking and communication skills. My goal is to leverage my skills and knowledge to create innovative and impactful software solutions that add value to businesses and customers.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mwormley008)](https://git.io/streak-stats)
 

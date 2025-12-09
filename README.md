@@ -46,12 +46,5 @@ Looking to collaborate with teams that value clean, efficient code and innovativ
 Feel free to connect with me on [[LinkedIn profile URL](https://www.linkedin.com/in/michael-wormley/)]
 Reach out to my email at [mwormley008@gmail.com]
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mwormley008)](https://git.io/streak-stats)
-
-![Codewars](https://github.r2v.ch/codewars?user=mworm&stroke=yellow)
 
 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/mworm)
-
-<a href="https://data.typeracer.com/pit/profile?user=mwormley&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=mwormley" border="0" alt="TypeRacer.com scorecard for user mwormley"/></a>
